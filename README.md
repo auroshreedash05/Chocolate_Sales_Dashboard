@@ -9,3 +9,7 @@ Analyze a chocolate dataset over 1lkh + rows to find the best selling chocolate 
 - Products:- `Product Id`, `Product Name`, `Brand`, `Category`, `Cocoa Percent`, `Weight G`
 - Sales:- `Order Id`, `Order Date`, `Product Id`, `Store Id`, `Customer Id`, `Quantity`, `Unit Price`, `Discount`, `Revenue`, `Cost`, `profit`
 - store:- `Store Id`, `Store name`, `City`, `Country`, `Store Type`
+### Tools Used:-
+- Posrtgre SQL
+- PG Admin 4
+- Power Bi
