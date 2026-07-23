@@ -15,3 +15,14 @@ Analyze a chocolate dataset over 1lkh + rows to find the best selling chocolate 
 - Posrtgre SQL
 - PG Admin 4
 - Power Bi
+### Question Solved
+- Total sales revenue
+- Total profit
+- Gender difference of Loyalty member
+- Total quantity and revenue generate on Jan-Mar 2023
+- Avg discount BY STORE
+- What is the total sales per year
+- Revenue by gender
+- Revenue and profit of each category
+- Minimum, maximum and avg age in male and female who buy the chocolate most
+- Store that maximum sales on highest sales category in Maximum sales month
