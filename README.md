@@ -15,7 +15,7 @@ Analyze a chocolate dataset over 1lkh + rows to find the best selling chocolate 
 - Posrtgre SQL
 - PG Admin 4
 - Power Bi
-### Question Solved
+### ❓Question Solved
 - Total sales revenue
 - Total profit
 - Gender difference of Loyalty member
