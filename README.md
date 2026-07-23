@@ -1,3 +1,5 @@
+<img width="1126" height="635" alt="image" src="https://github.com/user-attachments/assets/4237a526-1685-43e4-b4b4-eb3b2eb7b207" />
+
 # Chocolate_Sales_Dashboard
 ## Overview
 Analyze a chocolate dataset over 1lkh + rows to find the best selling chocolate in the 2023-2024 year.
