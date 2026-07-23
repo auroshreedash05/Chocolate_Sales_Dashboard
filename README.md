@@ -31,4 +31,5 @@ Analyze a chocolate dataset of 2023-2024 year and creating dashboard in Power Bi
 - The company gets almost 10 million profit.
 - Analyze that males have more loyal member 25k+ to the stores rather than females
 - In year 2024 sell increase 0.2% and the quantity is 15lkh+ than 2023.
--  
+- Male customers purchased chocolate 1.8% more frequently than female customers.
+- The Praline category was the top-performing product category, generating total sales of 65lkh+ revenue over the two-year period.
