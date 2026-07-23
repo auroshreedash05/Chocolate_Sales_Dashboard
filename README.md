@@ -1,2 +1,3 @@
 # Chocolate_Sales_Dashboard
-Analyze a Chocolate sales data of 2023-2024 year to find trends
+## Overview
+Analyze a chocolate dataset over 1lkh + rows to find the best selling chocolate in the 2023-2024 year.
