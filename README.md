@@ -27,5 +27,8 @@ Analyze a chocolate dataset of 2023-2024 year and creating dashboard in Power Bi
 - What are the minimum, maximum and avg age in male and female who buy the chocolates most
 - Store that maximum sales on highest sales category in Maximum sales month
 ### Key Insights
-- Analyze 1lkh+ datasets from kaggle
-- 
+- Find that there are almost 26 million revenue generated over 2year sales on chocolate.
+- The company gets almost 10 million profit.
+- Analyze that males have more loyal member 25k+ to the stores rather than females
+- In year 2024 sell increase 0.2% and the quantity is 15lkh+ than 2023.
+-  
